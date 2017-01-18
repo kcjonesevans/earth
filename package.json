@@ -4,13 +4,13 @@
     "version": "0.0.1",
     "private": true,
     "author": {
-        "name": "Cameron Beccario",
-        "email": "cambecc@nullschool.net"
+        "name": "K.C. Jones-Evans",
+        "email": "kcjonesevans@gmail.com"
     },
-    "homepage": "https://github.com/cambecc/earth",
+    "homepage": "https://github.com/kcjonesevans/earth",
     "repository": {
         "type": "git",
-        "url": "git://github.com/cambecc/earth.git"
+        "url": "git://github.com/kcjonesevans/earth.git"
     },
     "engine": "node >= 0.10.21",
     "dependencies": {
